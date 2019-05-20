@@ -1,2 +1,2 @@
 # mweb3waves
-Web3 witch Wawes demo3
+Web3 wich Wawes demo3
